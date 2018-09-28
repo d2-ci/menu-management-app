@@ -1,0 +1,20 @@
+{
+  "launch_path": "index.html",
+  "default_locale": "en",
+  "activities": {
+    "dhis": {
+      "href": ".."
+    }
+  },
+  "appType": "APP",
+  "name": "menu-management-app",
+  "version": "28.0.1",
+  "description": "Menu management app for DHIS 2",
+  "developer": {
+    "name": "Mark Polak"
+  },
+  "icons": {
+    "48": "icon.png"
+  },
+  "manifest_generated_at": "Fri Sep 28 2018 14:47:33 GMT+0000 (UTC)"
+}
