@@ -1,0 +1,13 @@
+{
+  "name": "menu-management-app",
+  "version": "29.0.0",
+  "description": "Menu management app for DHIS 2",
+  "main": "src/index.html",
+  "keywords": [
+    "DHIS2",
+    "App"
+  ],
+  "author": "Mark Polak",
+  "license": "BSD-3-Clause",
+  "homepage": "https://github.com/dhis2/menu-management-app#readme"
+}
