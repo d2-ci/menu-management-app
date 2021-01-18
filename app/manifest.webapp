@@ -1,9 +1,10 @@
 {
   "appType": "APP",
-  "short_name": "menu-management-app",
-  "name": "menu-management-app",
+  "short_name": "menu-management",
+  "name": "Menu Management",
   "description": "",
   "version": "1.0.0",
+  "core_app": true,
   "launch_path": "index.html",
   "default_locale": "en",
   "activities": {
@@ -14,7 +15,7 @@
   "icons": {
     "48": "dhis2-app-icon.png"
   },
-  "manifest_generated_at": "Mon Jan 18 2021 11:56:10 GMT+0000 (Coordinated Universal Time)",
+  "manifest_generated_at": "Mon Jan 18 2021 14:37:21 GMT+0000 (Coordinated Universal Time)",
   "display": "standalone",
   "theme_color": "#ffffff",
   "background_color": "#ffffff",

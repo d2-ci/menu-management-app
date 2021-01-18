@@ -1,7 +1,8 @@
 {
   "type": "app",
-  "name": "menu-management-app",
+  "name": "menu-management",
+  "title": "Menu Management",
+  "coreApp": true,
   "version": "1.0.0",
-  "description": "",
-  "title": "menu-management-app"
+  "description": ""
 }
