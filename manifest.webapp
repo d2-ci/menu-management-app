@@ -1,0 +1,24 @@
+{
+  "app_hub_id": "22229dce-6f0e-48e0-aa41-4c1bbe683ae2",
+  "appType": "APP",
+  "short_name": "menu-management",
+  "name": "Menu Management",
+  "description": "",
+  "version": "100.0.1",
+  "core_app": true,
+  "launch_path": "index.html",
+  "default_locale": "en",
+  "activities": {
+    "dhis": {
+      "href": "*"
+    }
+  },
+  "icons": {
+    "48": "dhis2-app-icon.png"
+  },
+  "manifest_generated_at": "Sun Dec 22 2024 02:01:46 GMT+0000 (Coordinated Universal Time)",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "scope": "."
+}
