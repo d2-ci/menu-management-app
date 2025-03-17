@@ -4,7 +4,7 @@
   "short_name": "menu-management",
   "name": "Menu Management",
   "description": "",
-  "version": "100.0.1",
+  "version": "100.1.0",
   "core_app": true,
   "launch_path": "index.html",
   "default_locale": "en",
@@ -16,7 +16,7 @@
   "icons": {
     "48": "dhis2-app-icon.png"
   },
-  "manifest_generated_at": "Sun Dec 22 2024 01:57:09 GMT+0000 (Coordinated Universal Time)",
+  "manifest_generated_at": "Mon Mar 17 2025 20:11:40 GMT+0000 (Coordinated Universal Time)",
   "display": "standalone",
   "theme_color": "#ffffff",
   "background_color": "#ffffff",
