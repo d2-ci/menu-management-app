@@ -1,0 +1,65 @@
+[
+  {
+    "locale": "ar",
+    "translations": {}
+  },
+  {
+    "locale": "cs",
+    "translations": {}
+  },
+  {
+    "locale": "en",
+    "translations": {
+      "APP_TITLE": "Menu Management",
+      "APP_DESCRIPTION": ""
+    }
+  },
+  {
+    "locale": "es",
+    "translations": {}
+  },
+  {
+    "locale": "fr",
+    "translations": {}
+  },
+  {
+    "locale": "lo",
+    "translations": {}
+  },
+  {
+    "locale": "nb",
+    "translations": {}
+  },
+  {
+    "locale": "sv",
+    "translations": {}
+  },
+  {
+    "locale": "uk",
+    "translations": {}
+  },
+  {
+    "locale": "ur",
+    "translations": {}
+  },
+  {
+    "locale": "uz_Latn",
+    "translations": {}
+  },
+  {
+    "locale": "uz_UZ_Cyrl",
+    "translations": {}
+  },
+  {
+    "locale": "uz_UZ_Latn",
+    "translations": {}
+  },
+  {
+    "locale": "vi",
+    "translations": {}
+  },
+  {
+    "locale": "zh",
+    "translations": {}
+  }
+]
