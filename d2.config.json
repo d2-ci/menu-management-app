@@ -5,7 +5,7 @@
   "name": "menu-management",
   "title": "Menu Management",
   "coreApp": true,
-  "version": "100.2.0",
+  "version": "100.2.1",
   "description": "",
   "entryPoints": {
     "app": "index.html"
